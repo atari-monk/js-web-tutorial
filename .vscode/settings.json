@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "web-dev-basics",
+    "appService.deploySubpath": "myExpressApp"
+}
